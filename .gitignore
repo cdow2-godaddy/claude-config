@@ -1,0 +1,10 @@
+*
+!/skills/
+!/skills/**
+!/agents/
+!/agents/**
+!/hooks/
+!/hooks/**
+!/settings.json
+!/CLAUDE.md
+!/.gitignore
